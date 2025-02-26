@@ -113,7 +113,7 @@ You can also highlight multiple lines at once and run them at once - have a go!
 
 ::: info
 **✔️ Recommended Practice: Use Scripts**\
-The console is great for quick tests or running single lines of code. However, for more complex analyses, using scripts is best practice. Scripts help keep your work organized and reproducible. We'll use scripts for the rest of this workshop.
+The console is great for quick tests or running single lines of code. However, for more complex analyses, using scripts is best practice. Scripts help keep your work organized and reproducible. We'll use scripts for the rest of this worksheet.
 :::
 
 </p>
@@ -212,7 +212,7 @@ In mathematics, a function defines a relation between inputs and output.
 In R (and other coding languages) it is the same. A function (also called a command)
 takes inputs called *arguments* inside parentheses, and output some results.
 
-We have actually already used two functions in this workshop - `getwd()` and `setwd()`. 
+We have actually already used two functions in this worksheet - `getwd()` and `setwd()`. 
 `getwd()` does not take an input, but outputs your working directory. 
 `setwd()` takes a path as its input, and sets it as your working directory. 
 
